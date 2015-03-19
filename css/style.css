@@ -1,18 +1,8 @@
 /**** ASSETS ****/
 
-	@import url(http://fonts.googleapis.com/css?family=Balthazar);
-	@import url(http://fonts.googleapis.com/css?family=Lora);
-
-	@font-face {font-family: Brandon; src: url('');}
+	@import url();
+	@import url();
+	@font-face {font-family: fontname; src: url('');}
 
 
 /**** PAGE ****/
-
-	.wrapper {
-		margin: 0 auto;
-		padding: 0;
-	}
-  
-  #copyright p {
-    text-align: center;
-  }
