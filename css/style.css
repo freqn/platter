@@ -1,8 +1,12 @@
-/**** ASSETS ****/
+/**** ASSETS & DEFAULTS ****/
 
 	@import url();
 	@import url();
 	@font-face {font-family: fontname; src: url('');}
 
+	[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+	}
+	#copyright {margin: 0 auto; width: 100%; text-align: center}
 
 /**** PAGE ****/
